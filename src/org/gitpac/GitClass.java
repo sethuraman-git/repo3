@@ -21,6 +21,7 @@ public class GitClass {
 		
 		System.out.println("final");
 		System.out.println("end");
+		System.out.println("***********");
 }
 
 }
